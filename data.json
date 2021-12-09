@@ -1,0 +1,27 @@
+[
+    {
+        "Id" : 1,
+        "Name" : "Ambica",
+        "Company" : "CGCS",
+        "Age" : 23
+    } ,
+    {
+        "Id" : 2,
+        "Name" : "Pothu",
+        "Company" : "CGCS",
+        "Age" : 25
+    },
+    {
+        "Id" : 3,
+        "Name" : "Kethi",
+        "Company" : "CGCS",
+        "Age" : 26
+    },
+
+    {
+        "Id" : 4,
+        "Name" : "Sayu",
+        "Company" : "CGCS",
+        "Age" : 26
+    }
+]
